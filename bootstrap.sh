@@ -25,3 +25,6 @@ else
 	fi;
 fi;
 unset doIt;
+
+#sym link dev directory
+ln -s  ~/Library/Mobile\ Documents/com~apple~CloudDocs/dev ~/
